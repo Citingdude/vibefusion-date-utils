@@ -1,9 +1,11 @@
 {
   "name": "@vibefusion/date-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vibefusion date utils",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.mts",
